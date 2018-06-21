@@ -1,0 +1,14 @@
+C:\Users\esaj\source\repos\EventBus\EventBus\bin\Debug\EventBus.exe.config
+C:\Users\esaj\source\repos\EventBus\EventBus\bin\Debug\EventBus.exe
+C:\Users\esaj\source\repos\EventBus\EventBus\bin\Debug\EventBus.pdb
+C:\Users\esaj\source\repos\EventBus\EventBus\obj\Debug\EventBus.csprojResolveAssemblyReference.cache
+C:\Users\esaj\source\repos\EventBus\EventBus\obj\Debug\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\esaj\source\repos\EventBus\EventBus\obj\Debug\EventBus.exe
+C:\Users\esaj\source\repos\EventBus\EventBus\obj\Debug\EventBus.pdb
+C:\Users\esaj\Desktop\eventaggregator\EventBus\bin\Debug\EventBus.exe.config
+C:\Users\esaj\Desktop\eventaggregator\EventBus\bin\Debug\EventBus.exe
+C:\Users\esaj\Desktop\eventaggregator\EventBus\bin\Debug\EventBus.pdb
+C:\Users\esaj\Desktop\eventaggregator\EventBus\obj\Debug\EventBus.csprojResolveAssemblyReference.cache
+C:\Users\esaj\Desktop\eventaggregator\EventBus\obj\Debug\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\esaj\Desktop\eventaggregator\EventBus\obj\Debug\EventBus.exe
+C:\Users\esaj\Desktop\eventaggregator\EventBus\obj\Debug\EventBus.pdb
